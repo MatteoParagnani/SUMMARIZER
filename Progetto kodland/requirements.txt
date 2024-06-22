@@ -1,0 +1,9 @@
+discord.py
+numpy
+keras
+requests
+tensorflow
+Pillow
+nltk
+wordcloud
+matplotlib
